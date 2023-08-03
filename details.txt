@@ -1,0 +1,9 @@
+home page - apurbha
+login - bibhu
+header - sayali
+backend - Narendra
+
+payment gateway
+add categories for sarees
+add dynamic function of login and basket
+
